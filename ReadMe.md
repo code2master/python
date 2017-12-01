@@ -4,6 +4,8 @@ This github repository is for tutorials on Python
 ## Python basics:
 -  [Python if else statement](https://www.code2master.com/python/if-else-statement-python/)
 -  [Python function example](https://www.code2master.com/python/python-function/)
+-  [Python print format](https://www.code2master.com/python/python-print-format/)
+
 
 
 ## Python data structures:
@@ -76,5 +78,18 @@ This github repository is for tutorials on Python
 -  [Python min function](https://www.code2master.com/python/python-min-function/)
 -  [Python reversed function](https://www.code2master.com/python/python-reversed/)
 -  [Python filter function](https://www.code2master.com/python/python-filter-example/)
+
+## Python datetime:
+-  [Python datetime](https://www.code2master.com/python/python-datetime/)
+-  [Python get current date and time](https://www.code2master.com/python/get-current-date-and-time-python/)
+-  [Python timeit](https://www.code2master.com/python/python-timeit/)
+-  [How to convert String to datetime in python](https://www.code2master.com/python/python-convert-string-to-datetime/)
+
+#Python utility programs
+-  [How to split string into list in Python](https://www.code2master.com/python/python-split-string-into-list/)
+-  [python - check if list is empty](https://www.code2master.com/python/python-check-list-empty/)
+-  [How to convert set to list in Python](https://www.code2master.com/python/python-set-to-list/)
+-  [How to convert list to set in Python](https://www.code2master.com/python/python-list-to-set/)
+-  [How to compare Strings in Python](https://www.code2master.com/python/python-compare-strings/)
 
 
