@@ -10,7 +10,7 @@ This github repository is for tutorials on Python
 -  [Python list](https://www.code2master.com/python/python-list/)
 -  [Python Dictionary](https://www.code2master.com/python/python-dictionary/)
 -  [Python tuple](https://www.code2master.com/python/python-tuple/)
--  [Python tuple](https://www.code2master.com/python/python-set/)
+-  [Python set](https://www.code2master.com/python/python-set/)
 
 ## Python List operations:
 -  [Python list append](https://www.code2master.com/python/python-list-append/)
